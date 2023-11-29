@@ -6,6 +6,7 @@ import io.quarkus.workshop.superheroes.fight.entity.Fighters;
 import io.quarkus.workshop.superheroes.fight.service.FightService;
 import jakarta.ws.rs.*;
 import org.eclipse.microprofile.config.inject.ConfigProperty;
+import org.eclipse.microprofile.faulttolerance.Timeout;
 import org.jboss.logging.Logger;
 
 import jakarta.enterprise.context.ApplicationScoped;
@@ -34,6 +35,7 @@ public class FightResource {
 
     @GET
     @Path("/randomfighters")
+    @Timeout(500)
     public Response getRandomFighters() {
         Fighters fighters = service.findRandomFighters();
         logger.debug("Get random fighters " + fighters);

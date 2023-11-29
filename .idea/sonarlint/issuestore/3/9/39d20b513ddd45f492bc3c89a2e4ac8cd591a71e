@@ -1,0 +1,7 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(îú€†8†£ÖäÁ1
+|
+java:S3252)"ZUse static access with "io.quarkus.hibernate.orm.panache.PanacheEntityBase" for "listAll".(ÌÆ·ƒıÿÿÿÿ8‹£ÖäÁ1
+}
+java:S3252-"[Use static access with "io.quarkus.hibernate.orm.panache.PanacheEntityBase" for "findById".(­¾áÑùÿÿÿÿ8Œ£ÖäÁ1

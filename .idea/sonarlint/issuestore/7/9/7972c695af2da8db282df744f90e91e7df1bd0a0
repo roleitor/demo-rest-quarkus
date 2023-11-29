@@ -1,0 +1,20 @@
+
+w
+java:S1104
+"UMake fightDate a static final constant or non-public and provide accessors if needed.(ìØ„¤üÿÿÿÿ8İ•–åÁ1
+s
+java:S1104"VMake winnerName a static final constant or non-public and provide accessors if needed.(üè¸€8İ•–åÁ1
+t
+java:S1104"WMake winnerLevel a static final constant or non-public and provide accessors if needed.(¼ Á8Ş•–åÁ1
+{
+java:S1104"YMake winnerPicture a static final constant or non-public and provide accessors if needed.(Õü–åúÿÿÿÿ8Ş•–åÁ1
+w
+java:S1104"UMake loserName a static final constant or non-public and provide accessors if needed.(®Ù©óüÿÿÿÿ8Ş•–åÁ1
+x
+java:S1104"VMake loserLevel a static final constant or non-public and provide accessors if needed.(Ì×Ùàùÿÿÿÿ8Ş•–åÁ1
+t
+java:S1104"XMake loserPicture a static final constant or non-public and provide accessors if needed.(ó«•18Ş•–åÁ1
+x
+java:S1104"VMake winnerTeam a static final constant or non-public and provide accessors if needed.(œ†¿şıÿÿÿÿ8ß•–åÁ1
+r
+java:S1104"UMake loserTeam a static final constant or non-public and provide accessors if needed.(ÕÒÙ8ß•–åÁ1
